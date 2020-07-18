@@ -19,7 +19,7 @@ class CategoriesGridView extends StatelessWidget {
         _categoryGridTile(context, OMIcons.workOutline, 'Work', 100),
         _categoryGridTile(context, Icons.lightbulb_outline, 'Ideas', 1000),
         _categoryGridTile(context, OMIcons.palette, 'Art work', 42),
-        _categoryGridTile(context, Icons.priority_high, 'Urgentry', 2),
+        _categoryGridTile(context, Icons.priority_high, 'Urgently', 2),
       ],
     );
   }
