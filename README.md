@@ -6,7 +6,7 @@ Two but what a two!
 
 | My list | Schedule |
 |--|--|
-| ![My list](https://user-images.githubusercontent.com/17878459/87849154-ae2fda80-c8bc-11ea-810c-566d7534b79a.png) | ![Schedule](https://user-images.githubusercontent.com/17878459/87849128-79bc1e80-c8bc-11ea-9292-722723e9f392.png) |
+| ![My list](https://user-images.githubusercontent.com/17878459/87863789-98aac700-c935-11ea-8b98-5330fea0ab42.png) | ![Schedule](https://user-images.githubusercontent.com/17878459/87849128-79bc1e80-c8bc-11ea-9292-722723e9f392.png) |
 
 ## Open source
 This application would not have been possible without the ❤️ of the following open source projects.  
