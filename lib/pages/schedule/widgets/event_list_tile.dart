@@ -90,7 +90,7 @@ class _EventListTileState extends State<EventListTile> {
                       children: [
                         Flexible(
                           child: Text(
-                            widget._event.title,
+                            widget._event.description,
                             style: Theme.of(context)
                                 .textTheme
                                 .subtitle1
