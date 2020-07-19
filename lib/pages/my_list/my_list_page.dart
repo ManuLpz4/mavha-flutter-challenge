@@ -22,7 +22,7 @@ class MyListPage extends StatelessWidget {
           ),
         ],
         bottom: const PreferredSize(
-          preferredSize: Size.fromHeight(119),
+          preferredSize: Size.fromHeight(120),
           child: DaysListView(),
         ),
       ),
