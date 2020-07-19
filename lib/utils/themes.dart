@@ -21,7 +21,6 @@ class AppThemes {
           fontWeight: FontWeight.bold,
         ),
       ),
-      centerTitle: true,
     ),
     floatingActionButtonTheme: FloatingActionButtonThemeData(
       shape: RoundedRectangleBorder(
