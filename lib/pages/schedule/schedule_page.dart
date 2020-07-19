@@ -17,6 +17,7 @@ class SchedulePage extends StatelessWidget {
           onPressed: () => Navigator.pop(context),
         ),
         title: const Text('Schedule'),
+        centerTitle: true,
         actions: [
           IconButton(
             onPressed: () => null,

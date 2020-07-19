@@ -14,6 +14,7 @@ class MyListPage extends StatelessWidget {
       appBar: AppBar(
         shape: const CustomShapeBorder(),
         title: const Text('My list'),
+        centerTitle: true,
         actions: [
           IconButton(
             onPressed: () => null,
